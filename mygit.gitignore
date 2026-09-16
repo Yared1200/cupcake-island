@@ -1,0 +1,16 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Node.js
+node-modules/
+npm-debug.log*
+
+# Editor / I.D.E. configurations
+.vscode/
+.idea/
+*.swp
+
+# Build output directories
+dist/
+build/
